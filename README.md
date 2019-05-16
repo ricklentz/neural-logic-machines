@@ -53,7 +53,7 @@ git clone https://github.com/google/neural-logic-machines --recursive
 Install [Jacinle](https://github.com/vacancy/Jacinle) included as a submodule. You need to add the bin path to your global `PATH` environment variable:
 
 ```
-export PATH=<path_to_neural_logic_machines>/third_party/Jacinle/bin:$PATH
+export PATH=/Users/XXX123/Documents/GitHub/neural-logic-machines/third_party/Jacinle/bin:$PATH
 ```
 
 Create a conda environment for NLM, and install the requirements. This includes the required python packages
