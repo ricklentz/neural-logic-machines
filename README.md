@@ -47,13 +47,13 @@ In International Conference on Learning Representations (ICLR) 2019
 Clone this repository:
 
 ```
-git clone https://github.com/google/neural-logic-machines --recursive
+git clone https://github.com/ricklentz/neural-logic-machines --recursive
 ```
 
 Install [Jacinle](https://github.com/vacancy/Jacinle) included as a submodule. You need to add the bin path to your global `PATH` environment variable:
 
 ```
-export PATH=/Users/XXX123/Documents/GitHub/neural-logic-machines/third_party/Jacinle/bin:$PATH
+export PATH=/home/cbios/github/neural-logic-machines/third_party/Jacinle/bin:$PATH
 ```
 
 Create a conda environment for NLM, and install the requirements. This includes the required python packages
